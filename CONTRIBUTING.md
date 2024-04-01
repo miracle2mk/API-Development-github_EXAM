@@ -25,7 +25,7 @@ If you encounter any issues while using or contributing to the project, please r
 
 ## Code of Conduct
 
-We expect all contributors to adhere to our [Code of Conduct](https://contributing.md/your-code-of-conduct-for-open-source-communities/) to create a respectful and inclusive environment for everyone involved. Please read and familiarize yourself with the code of conduct before participating in the project.
+We expect all contributors to adhere to our [Code of Conduct](https://github.com/miracle2mk/github_EXAM/blob/main/CODE_OF_CONDUCT.md/) to create a respectful and inclusive environment for everyone involved. Please read and familiarize yourself with the code of conduct before participating in the project.
 
 ## Licensing
 
