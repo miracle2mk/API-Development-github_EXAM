@@ -33,6 +33,6 @@ By contributing to this project, you agree that your contributions will be licen
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact the project maintainers at (mikibayu2230@gmail.com).
+If you have any questions or need further assistance, feel free to contact the project maintainers at [(mikibayu2230@gmail.com)](https://mail.google.com/).
 
 We appreciate your interest and contributions to our project!
